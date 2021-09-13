@@ -156,3 +156,11 @@ Julia
 -----
 TODO
 
+Ruby
+----
+
+Add this line to your application’s Gemfile:
+
+.. code:: ruby
+
+  gem 'scs'

@@ -14,6 +14,8 @@ languages.
 
 :ref:`Julia <julia_example>`
 
+:ref:`Ruby <ruby_example>`
+
 .. toctree::
    :maxdepth: 2
    :hidden:
@@ -22,3 +24,4 @@ languages.
    python.rst
    matlab.rst
    julia.rst
+   ruby.rst
